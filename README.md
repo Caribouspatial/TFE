@@ -1,2 +1,2 @@
 # TFE
-Home cinema avec module son sans fil et indépendant
+Home-cinéma avec module son sans-fil et modulaire
